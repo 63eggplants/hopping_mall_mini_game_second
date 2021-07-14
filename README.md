@@ -1,10 +1,10 @@
 # Mini shopping mall
-This is mini shopping mall which filters items by type and color.
+This is a mini shopping mall which filters items by type and color.
 
 ## Technology Stack
 * HTML
 * CSS
-* JavaScript
+* VanilaJS
 
 ## Key Features
 * Every item will be shown by clicking logo button
